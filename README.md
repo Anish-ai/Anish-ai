@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Anish Kumar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B32D&center=true&width=435&lines=Passionate+Developer+🚀;Tech+Innovator+💡;Blockchain+Enthusiast+₿" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=500&color=F7B32D&background=FFFFFF00&width=800&height=100&lines=Passionate+Developer+🚀;Tech+Innovator+💡;Blockchain+Enthusiast+₿;AI%2FML+Explorer+🤖;GenAI+Architect+🧠" alt="Typing Animation" />
 
 ## 🌟 About Me
 
