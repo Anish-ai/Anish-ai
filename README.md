@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm Anish Kumar
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=500&color=F7B32D&background=FFFFFF00&width=800&height=100&lines=Passionate+Developer+🚀;Tech+Innovator+💡;Blockchain+Enthusiast+₿;AI%2FML+Explorer+🤖;GenAI+Architect+🧠" alt="Typing Animation" />
-
 ## 🌟 About Me
 
 Passionate about 🚀 app & web development, 🔧 backend engineering, 🤖 AI/ML, and ₿ blockchain & Bitcoin technology. Currently 📚 learning Bitcoin with Summer of Bitcoin, diving deep into 🌐 decentralized systems, 🔐 cryptographic protocols, and 🧠 GenAI.
@@ -70,8 +69,6 @@ Passionate about 🚀 app & web development, 🔧 backend engineering, 🤖 AI/M
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-ai&layout=compact&theme=radical" alt="Top Languages"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anish-ai&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </div>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anish-ai&theme=radical)
 
 ## 🌐 Connect with Me
 
