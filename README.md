@@ -1,28 +1,104 @@
-<h1 align="center">Hi 👋, I'm Anish Kumar</h1>
-<h3 align="center">Passionate about 🚀 app & web development, 🔧 backend engineering, 🤖 AI/ML, and ₿ blockchain & Bitcoin technology. Currently 📚 learning Bitcoin with Summer of Bitcoin, diving deep into 🌐 decentralized systems, 🔐 cryptographic protocols, and 🧠 GenAI. I love 💡 building scalable solutions that solve real-world problems efficiently. Skilled in 🔑 authentication, ⚙️ system automation, and designing 🏗️ robust backend architectures. Always open to 🤝 collaborations, 💭 innovative ideas, and exciting challenges! 🚀 This version makes key skills and technologies stand out more! Let me know if you need any more refinements. 😊</h3>
+# Hi there! 👋 I'm Anish Kumar
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anish-ai" alt="anish-ai" /></a> </p>
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Bitcoin with Summer of Bitcoin, exploring blockchain technology, cryptographic protocols, and decentralized systems, while also diving into AI/ML and its GenAI integration. 🚀**
+Passionate developer exploring the intersections of technology and innovation! I'm deeply invested in:
 
-- 👨‍💻 All of my projects are available at [https://phenomenal-fudge-ebf8fa.netlify.app/](https://phenomenal-fudge-ebf8fa.netlify.app/)
+- 🌐 App & Web Development
+- 🔧 Backend Engineering
+- 🤖 AI/ML Technologies
+- ₿ Blockchain & Bitcoin Ecosystem
 
-- 📫 How to reach me **aniskum59431@gmail.com**
+### 🌱 Current Learning Journey
 
-- 📄 Know about my experiences [https://phenomenal-fudge-ebf8fa.netlify.app/stack/resume.pdf](https://phenomenal-fudge-ebf8fa.netlify.app/stack/resume.pdf)
+Currently diving deep into:
+- 💡 Bitcoin technology (Summer of Bitcoin program)
+- 🔐 Cryptographic protocols
+- 🧠 Generative AI integration
+- 🌐 Decentralized systems
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anish-kumar-71779326a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anish-kumar-71779326a" height="30" width="40" /></a>
-<a href="https://instagram.com/light.anish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="light.anish" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/choco_bar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="choco_bar" height="30" width="40" /></a>
-</p>
+## 🏆 GitHub Profile Trophy
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=anish-ai&theme=radical&column=3&margin-w=15&margin-h=15)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anish-ai&show_icons=true&locale=en&layout=compact" alt="anish-ai" /></p>
+## 💻 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anish-ai&show_icons=true&locale=en" alt="anish-ai" /></p>
+### Languages
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anish-ai&" alt="anish-ai" /></p>
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)
+![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)
+![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google-cloud)
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
+![Appwrite](https://img.shields.io/badge/-Appwrite-05122A?style=flat&logo=appwrite)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+
+### AI & Data Science
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20learn-05122A?style=flat&logo=scikit-learn)
+![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=python)
+![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=mathworks)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+![Chart.js](https://img.shields.io/badge/-Chart.js-05122A?style=flat&logo=chart.js)
+
+## 📊 GitHub Stats
+
+<div style="display: flex; justify-content: space-between;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-ai&layout=compact&theme=radical" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anish-ai&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</div>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anish-ai&theme=radical)
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/anish-kumar-71779326a)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/light.anish)
+[![CodeForces](https://img.shields.io/badge/-CodeForces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/choco_bar)
+
+### 📫 Contact
+
+- **Email**: aniskum59431@gmail.com
+- **Portfolio**: [Personal Website](https://phenomenal-fudge-ebf8fa.netlify.app/)
+- **Resume**: [Download Resume](https://phenomenal-fudge-ebf8fa.netlify.app/stack/resume.pdf)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=anish-ai&style=flat-square&color=blueviolet" alt="Profile Views"/>
+</div>
+
+*Continuously learning, innovating, and pushing the boundaries of technology! 🚀*
