@@ -172,11 +172,15 @@ const AboutAnish = {
 </div>
 
 ## <img width="40" src="https://em-content.zobj.net/source/apple/354/joker_1f0cf.png"/> Dev Joke of the Day
-
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=gotham" alt="Jokes Card" />
 </div>
 
+<div align="center" style="margin-top: 50px; overflow: hidden; max-width: 100%;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26&height=100&section=footer&animation=twinkling&fontAlignY=40&descAlignY=60&descAlign=70.5&text=Let's%20Connect%20and%20Collaborate&fontSize=20&fontColor=ffffff&desc=Building%20the%20future%20together%20one%20commit%20at%20a%20time" width="100%" />
+</div>
+
+<div align="center" style="margin-top: 20px; margin-bottom: 30px;">
 <!-- Animated Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26&height=120&section=footer&animation=twinkling&fontAlignY=40&descAlignY=60&descAlign=70.5&text=Let's%20Connect%20and%20Collaborate&fontSize=25&fontColor=ffffff&desc=Building%20the%20future%20together%20one%20commit%20at%20a%20time" width="100%" />
