@@ -175,7 +175,20 @@ const AboutAnish = {
 ## <img width="35" src="https://em-content.zobj.net/source/apple/354/joker_1f0cf.png"/> Random Dev Joke
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&qColor=F7B32D&aColor=FFFFFF&borderColor=%23FF6D91&codeColor=F7B32D" alt="Jokes Card" />
+  <table style="background-color: #2E2E2E; border-radius: 10px; overflow: hidden; border-collapse: separate; border-spacing: 0; border: 2px solid #FF6D91; margin: 10px auto;">
+    <tr>
+      <th style="background-color: #3D1D35; color: #F7B32D; padding: 12px 15px; text-align: center; font-size: 18px; border-bottom: 2px solid #FF6D91;">
+        <img src="https://em-content.zobj.net/source/apple/354/face-with-tears-of-joy_1f602.png" width="20px" style="vertical-align: middle; margin-right: 8px;"/>
+        Developer Joke of the Day
+      </th>
+    </tr>
+    <tr>
+      <td style="padding: 15px; color: #FFFFFF; font-size: 16px; line-height: 1.5;">
+        Why do programmers prefer dark mode?<br><br>
+        <span style="color: #F7B32D; font-weight: bold;">Because light attracts bugs!</span>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
