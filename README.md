@@ -12,7 +12,7 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&hover=darken)](https://linkedin.com/in/anish-kumar-71779326a)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/anish-kumar-71779326a)
   [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/light.anish)
   [![CodeForces](https://img.shields.io/badge/-CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/choco_bar)
   [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://phenomenal-fudge-ebf8fa.netlify.app/)
@@ -21,13 +21,18 @@
   
 </div>
 
-<p align="center">
-  <img src="https://readme-snake-six.vercel.app/api?username=anish-ai&color_snake=F7B32D&color_dots=#121212" width="100%" alt="Snake animation" />
-</p>
+<!-- Snake animation - Using a reliable source -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/anish-ai/anish-ai/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/anish-ai/anish-ai/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/anish-ai/anish-ai/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ## <img width="35" src="https://em-content.zobj.net/source/apple/354/rocket_1f680.png"/> About Me
 
-<div align="center">
+<div>
   <img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" style="border-radius: 10px; box-shadow: 0 10px 25px rgba(247, 179, 45, 0.3);" />
 </div>
 
@@ -81,39 +86,49 @@ const AboutAnish = {
   </picture>
 </div>
 
+<!-- Fixed GitHub Streak with verified settings -->
 <div align="center">
   <a href="https://github.com/anish-ai">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anish-ai&theme=radical&hide_border=true&border_radius=15&background=0D1117&ring=F7B32D&fire=F24E1E&currStreakLabel=F7B32D" alt="GitHub Streak" width="450" />
+    <img src="https://streak-stats.demolab.com?user=anish-ai&theme=radical&hide_border=true&border_radius=15&background=0D1117&ring=F7B32D&fire=F24E1E&currStreakLabel=F7B32D" alt="GitHub Streak" width="450" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anish-ai&theme=high-contrast&bg_color=0D1117&color=F7B32D&line=F24E1E&point=FFFFFF&area=true&hide_border=true" width="90%" alt="Contribution Graph" />
+  <a href="https://github.com/anish-ai">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anish-ai&theme=radical&bg_color=0D1117&color=F7B32D&line=F24E1E&point=FFFFFF&area=true&hide_border=true" width="90%" alt="Contribution Graph" />
+  </a>
 </div>
 
 ## <img width="35" src="https://em-content.zobj.net/source/apple/354/laptop_1f4bb.png"/> Tech Stack
 
 <div align="center">
+  <!-- Fixed hover icon issue by changing the structure -->
   <details open>
-    <summary><h3>🔄 Programming Languages</h3></summary>
-    <br>
-    <p>
-      <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java,c,cs,kotlin&perline=8" />
-    </p>
-  </details>
-
-  <details>
-    <summary><h3>🌐 Web & Mobile Frameworks</h3></summary>
-    <br>
-    <p>
-      <img src="https://skillicons.dev/icons?i=react,angular,vue,nodejs,express,tailwind,nextjs,electron&perline=8" />
-    </p>
-  </details>
-
-  <details>
-    <summary><h3>⛓️ Blockchain & Bitcoin</h3></summary>
-    <br>
+    <summary style="font-size: 1.5em; font-weight: bold; cursor: pointer; list-style: none;">
+      Programming Languages
+    </summary>
     <div>
+      <br>
+      <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java,c,cs,kotlin&perline=8" />
+    </div>
+  </details>
+
+  <details>
+    <summary style="font-size: 1.5em; font-weight: bold; cursor: pointer; list-style: none;">
+      Web & Mobile Frameworks
+    </summary>
+    <div>
+      <br>
+      <img src="https://skillicons.dev/icons?i=react,angular,vue,nodejs,express,tailwind,nextjs,electron&perline=8" />
+    </div>
+  </details>
+
+  <details>
+    <summary style="font-size: 1.5em; font-weight: bold; cursor: pointer; list-style: none;">
+      Blockchain & Bitcoin
+    </summary>
+    <div>
+      <br>
       <img src="https://img.shields.io/badge/-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
       <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
       <img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
@@ -122,12 +137,13 @@ const AboutAnish = {
   </details>
 
   <details>
-    <summary><h3>🤖 AI & Data Science</h3></summary>
-    <br>
-    <p>
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=8" />
-    </p>
+    <summary style="font-size: 1.5em; font-weight: bold; cursor: pointer; list-style: none;">
+      AI & Data Science
+    </summary>
     <div>
+      <br>
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=8" />
+      <br><br>
       <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
       <img src="https://img.shields.io/badge/-Scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -136,19 +152,23 @@ const AboutAnish = {
   </details>
 
   <details>
-    <summary><h3>☁️ Cloud & Databases</h3></summary>
-    <br>
-    <p>
+    <summary style="font-size: 1.5em; font-weight: bold; cursor: pointer; list-style: none;">
+      Cloud & Databases
+    </summary>
+    <div>
+      <br>
       <img src="https://skillicons.dev/icons?i=aws,gcp,azure,mongodb,mysql,postgresql,firebase&perline=7" />
-    </p>
+    </div>
   </details>
 
   <details>
-    <summary><h3>🛠️ Development Tools</h3></summary>
-    <br>
-    <p>
+    <summary style="font-size: 1.5em; font-weight: bold; cursor: pointer; list-style: none;">
+      Development Tools
+    </summary>
+    <div>
+      <br>
       <img src="https://skillicons.dev/icons?i=docker,git,linux,figma,vscode,unity&perline=6" />
-    </p>
+    </div>
   </details>
 </div>
 
