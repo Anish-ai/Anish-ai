@@ -20,7 +20,6 @@
   <a href="https://phenomenal-fudge-ebf8fa.netlify.app/stack/resume.pdf"><img src="https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&logoWidth=25" alt="Resume" /></a>
 </div>
 
-<!-- Fixed Snake animation with GitHub Actions -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anish-ai/anish-ai/output/github-contribution-grid-snake-dark.svg" />
