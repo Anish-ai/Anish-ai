@@ -173,69 +173,12 @@ const AboutAnish = {
 </div>
 
 ## <img width="40" src="https://em-content.zobj.net/source/apple/354/joker_1f0cf.png"/> Dev Joke of the Day
-
 <div align="center">
-  <div style="
-    background: linear-gradient(135deg, #0D1117 0%, #171B26 100%);
-    border: 2px solid #FF6D91;
-    border-radius: 16px;
-    box-shadow: 0 10px 25px rgba(255, 109, 145, 0.3), 0 0 30px rgba(242, 78, 30, 0.1) inset;
-    padding: 20px;
-    margin: 20px auto;
-    max-width: 550px;
-    position: relative;
-    overflow: hidden;">
-    
-  <div style="
-      position: absolute;
-      top: -20px;
-      right: -20px;
-      width: 100px;
-      height: 100px;
-      background: radial-gradient(circle, rgba(255, 109, 145, 0.2) 0%, rgba(255, 109, 145, 0) 70%);
-      border-radius: 50%;">
-  </div>
-    
-  <div style="
-      position: absolute;
-      bottom: -30px;
-      left: -30px;
-      width: 150px;
-      height: 150px;
-      background: radial-gradient(circle, rgba(242, 78, 30, 0.15) 0%, rgba(242, 78, 30, 0) 70%);
-      border-radius: 50%;">
-    </div>
-    
-  <h3 style="
-      color: #FF6D91;
-      font-size: 24px;
-      margin-bottom: 15px;
-      text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
-      display: inline-block;
-      padding: 5px 15px;
-      border-bottom: 2px solid #F24E1E;
-      border-radius: 0 0 10px 10px;">
-      💻 Daily Developer Humor 💻
-    </h3>
-    
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&borderColor=FF6D91&bgColor=0D1117" alt="Jokes Card" style="
-      filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3));
-      max-width: 500px;
-      border-radius: 10px;" />
-      
-  <p style="
-      color: #B8C0DB;
-      font-size: 12px;
-      margin-top: 15px;
-      text-align: center;
-      font-style: italic;">
-      Fresh programming humor delivered daily to your profile
-    </p>
-  </div>
+  <img src="https://readme-jokes.vercel.app/api?theme=gotham" alt="Jokes Card" />
 </div>
 
 <div align="center" style="margin-top: 50px; overflow: hidden; max-width: 100%;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26&height=100&section=footer&animation=twinkling&fontAlignY=40&descAlignY=60&descAlign=75.5&text=Let's%20Connect%20and%20Collaborate&fontSize=20&fontColor=ffffff&desc=Building%20the%20future%20together%20one%20commit%20at%20a%20time" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26&height=100&section=footer&animation=twinkling&fontAlignY=40&descAlignY=60&descAlign=70.5&text=Let's%20Connect%20and%20Collaborate&fontSize=20&fontColor=ffffff&desc=Building%20the%20future%20together%20one%20commit%20at%20a%20time" width="100%" />
 </div>
 
 <div align="center" style="margin-top: 20px; margin-bottom: 30px;">
