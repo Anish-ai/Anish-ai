@@ -175,7 +175,10 @@ const AboutAnish = {
 ## <img width="40" src="https://em-content.zobj.net/source/apple/354/joker_1f0cf.png"/> Dev Joke of the Day
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&borderColor=FF6D91&bgColor=0D1117" alt="Jokes Card" />
+  <div style="border: 2px solid #FF6D91; border-radius: 15px; padding: 15px; background: linear-gradient(145deg, #0D1117, #1A1B27); box-shadow: 0 8px 24px rgba(255, 109, 145, 0.2); max-width: 500px; margin: 0 auto;">
+    <h3 style="color: #FF6D91; margin-bottom: 15px; border-bottom: 1px solid #FF6D91; padding-bottom: 8px;">💻 Dev Joke of the Day 💻</h3>
+    <img src="https://readme-jokes.vercel.app/api?theme=radical&borderColor=FF6D91&bgColor=0D1117" alt="Jokes Card" />
+  </div>
 </div>
 
 <!-- Animated Footer -->
