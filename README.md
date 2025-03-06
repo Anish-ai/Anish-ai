@@ -20,7 +20,6 @@
   <a href="https://phenomenal-fudge-ebf8fa.netlify.app/stack/resume.pdf"><img src="https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&logoWidth=25" alt="Resume" /></a>
 </div>
 
-<!-- Fixed Snake animation with GitHub Actions -->
 <div align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -182,5 +181,11 @@ const AboutAnish = {
 </div>
 
 <div align="center" style="margin-top: 20px; margin-bottom: 30px;">
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26&height=120&section=footer&animation=twinkling&fontAlignY=40&descAlignY=60&descAlign=70.5&text=Let's%20Connect%20and%20Collaborate&fontSize=25&fontColor=ffffff&desc=Building%20the%20future%20together%20one%20commit%20at%20a%20time" width="100%" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F24E1E&center=true&vCenter=true&random=false&width=600&lines=Continuously+learning%2C+innovating%2C+and+pushing+boundaries!+%F0%9F%9A%80" alt="Signature" />
 </div>
