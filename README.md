@@ -89,7 +89,7 @@ const AboutAnish = {
 <!-- Fixed GitHub Streak with verified settings -->
 <div align="center">
   <a href="https://github.com/anish-ai">
-    <img src="https://streak-stats.demolab.com?user=anish-ai&theme=radical&hide_border=true&border_radius=15&background=0D1117&ring=F7B32D&fire=F24E1E&currStreakLabel=F7B32D" alt="GitHub Streak" width="450" />
+    <img src="https://streak-stats.demolab.com/?user=anish-ai&theme=radical&hide_border=true&border_radius=15&background=0D1117&ring=F7B32D&fire=F24E1E&currStreakLabel=F7B32D" alt="GitHub Streak" width="450" />
   </a>
 </div>
 
