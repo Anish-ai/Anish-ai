@@ -22,10 +22,10 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anish-ai/anish-ai/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anish-ai/anish-ai/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/anish-ai/anish-ai/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 ## <img width="40" src="https://em-content.zobj.net/source/apple/354/rocket_1f680.png"/> About Me
@@ -174,17 +174,14 @@ const AboutAnish = {
 ## <img width="40" src="https://em-content.zobj.net/source/apple/354/joker_1f0cf.png"/> Dev Joke of the Day
 
 <div align="center">
-  <div style="border: 2px solid #FF6D91; border-radius: 15px; padding: 15px; background: linear-gradient(145deg, #0D1117, #1A1B27); box-shadow: 0 8px 24px rgba(255, 109, 145, 0.2); max-width: 500px; margin: 0 auto;">
-    <h3 style="color: #FF6D91; margin-bottom: 15px; border-bottom: 1px solid #FF6D91; padding-bottom: 8px;">💻 Dev Joke of the Day 💻</h3>
-    <img src="https://readme-jokes.vercel.app/api?theme=radical&borderColor=FF6D91&bgColor=0D1117" alt="Jokes Card" />
-  </div>
+  <img src="https://readme-jokes.vercel.app/api?theme=gotham" alt="Jokes Card" />
 </div>
 
 <!-- Animated Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26&height=120&section=footer&animation=twinkling&fontAlignY=40&descAlignY=60&descAlign=75.5&text=Let's%20Connect%20and%20Collaborate&fontSize=30&fontColor=ffffff&desc=Building%20the%20future%20together%20one%20commit%20at%20a%20time" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26&height=120&section=footer&animation=twinkling&fontAlignY=40&descAlignY=60&descAlign=70.5&text=Let's%20Connect%20and%20Collaborate&fontSize=25&fontColor=ffffff&desc=Building%20the%20future%20together%20one%20commit%20at%20a%20time" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=F24E1E&center=true&vCenter=true&random=false&width=600&lines=Continuously+learning%2C+innovating%2C+and+pushing+boundaries!+%F0%9F%9A%80" alt="Signature" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F24E1E&center=true&vCenter=true&random=false&width=600&lines=Continuously+learning%2C+innovating%2C+and+pushing+boundaries!+%F0%9F%9A%80" alt="Signature" />
 </div>
