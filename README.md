@@ -172,28 +172,10 @@ const AboutAnish = {
   </details>
 </div>
 
-## <img width="40" src="https://em-content.zobj.net/source/apple/354/joker_1f0cf.png"/> Dev Joke Generator
+## <img width="40" src="https://em-content.zobj.net/source/apple/354/joker_1f0cf.png"/> Dev Joke of the Day
 
 <div align="center">
-  <table style="background: linear-gradient(135deg, #2E2E2E 0%, #1A1A1A 100%); border-radius: 15px; overflow: hidden; border-collapse: separate; border-spacing: 0; border: 2px solid #FF6D91; margin: 20px auto; box-shadow: 0 5px 15px rgba(255, 109, 145, 0.2);">
-    <tr>
-      <th style="background: linear-gradient(135deg, #3D1D35 0%, #2C1526 100%); color: #F7B32D; padding: 15px 20px; text-align: center; font-size: 20px; border-bottom: 2px solid #FF6D91;">
-        <img src="https://em-content.zobj.net/source/apple/354/face-with-tears-of-joy_1f602.png" width="25px" style="vertical-align: middle; margin-right: 10px;"/>
-        Developer Joke Generator
-      </th>
-    </tr>
-    <tr>
-      <td style="padding: 20px; color: #FFFFFF; font-size: 18px; line-height: 1.6; text-align: center;">
-        <div id="joke-content">
-          Why do programmers prefer dark mode?<br><br>
-          <span style="color: #FF6D91; font-weight: bold;">Because light attracts bugs!</span>
-        </div>
-        <div style="margin-top: 15px;">
-          <a href="https://github.com/anish-ai" style="display: inline-block; padding: 8px 20px; background: linear-gradient(135deg, #FF6D91 0%, #FC466B 100%); color: white; text-decoration: none; border-radius: 30px; font-weight: bold; box-shadow: 0 2px 10px rgba(252, 70, 107, 0.3); transition: all 0.3s ease;">New Joke 🔄</a>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&borderColor=FF6D91&bgColor=0D1117" alt="Jokes Card" />
 </div>
 
 <!-- Animated Footer -->
