@@ -186,7 +186,7 @@ const AboutAnish = {
     position: relative;
     overflow: hidden;">
     
-    <div style="
+  <div style="
       position: absolute;
       top: -20px;
       right: -20px;
@@ -194,9 +194,9 @@ const AboutAnish = {
       height: 100px;
       background: radial-gradient(circle, rgba(255, 109, 145, 0.2) 0%, rgba(255, 109, 145, 0) 70%);
       border-radius: 50%;">
-    </div>
+  </div>
     
-    <div style="
+  <div style="
       position: absolute;
       bottom: -30px;
       left: -30px;
@@ -206,7 +206,7 @@ const AboutAnish = {
       border-radius: 50%;">
     </div>
     
-    <h3 style="
+  <h3 style="
       color: #FF6D91;
       font-size: 24px;
       margin-bottom: 15px;
@@ -218,12 +218,12 @@ const AboutAnish = {
       💻 Daily Developer Humor 💻
     </h3>
     
-    <img src="https://readme-jokes.vercel.app/api?theme=radical&borderColor=FF6D91&bgColor=0D1117" alt="Jokes Card" style="
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&borderColor=FF6D91&bgColor=0D1117" alt="Jokes Card" style="
       filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3));
       max-width: 500px;
       border-radius: 10px;" />
       
-    <p style="
+  <p style="
       color: #B8C0DB;
       font-size: 12px;
       margin-top: 15px;
@@ -235,9 +235,9 @@ const AboutAnish = {
 </div>
 
 <div align="center" style="margin-top: 50px; overflow: hidden; max-width: 100%;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26&height=100&section=footer&animation=twinkling&fontAlignY=40&descAlignY=60&descAlign=75.5&text=Let's%20Connect%20and%20Collaborate&fontSize=24&fontColor=ffffff&desc=Building%20the%20future%20together%20one%20commit%20at%20a%20time" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26&height=100&section=footer&animation=twinkling&fontAlignY=40&descAlignY=60&descAlign=75.5&text=Let's%20Connect%20and%20Collaborate&fontSize=20&fontColor=ffffff&desc=Building%20the%20future%20together%20one%20commit%20at%20a%20time" width="100%" />
 </div>
 
 <div align="center" style="margin-top: 20px; margin-bottom: 30px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=F24E1E&center=true&vCenter=true&random=false&width=600&lines=Continuously+learning%2C+innovating%2C+and+pushing+boundaries!+%F0%9F%9A%80" alt="Signature" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F24E1E&center=true&vCenter=true&random=false&width=600&lines=Continuously+learning%2C+innovating%2C+and+pushing+boundaries!+%F0%9F%9A%80" alt="Signature" />
 </div>
