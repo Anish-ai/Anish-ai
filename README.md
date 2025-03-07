@@ -91,7 +91,7 @@ const AboutAnish = {
 <!-- GitHub Streak with improved styling -->
 <div align="center">
   <a href="https://github.com/anish-ai">
-    <img src="https://streak-stats.demolab.com/?user=anish-ai&theme=radical&hide_border=true&border_radius=15&background=0D1117&ring=FF6D91&fire=F24E1E&currStreakLabel=FF6D91" alt="GitHub Streak" width="450" />
+    <img src="https://streak-stats.demolab.com/?user=anish-ai&theme=radical&hide_border=true&border_radius=15&short_numbers=true&background=0D1117&ring=FF6D91&fire=F24E1E&currStreakLabel=FF6D91" alt="GitHub Streak" width="450" />
   </a>
 </div>
 
