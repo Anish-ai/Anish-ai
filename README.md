@@ -1,9 +1,7 @@
 # <div align="center">🌟 Anish Kumar 🌟</div>
 
 <div align="center">
-  <a href="https://github.com/anish-ai">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=FF6D91&center=true&vCenter=true&random=false&width=500&height=70&lines=Passionate+Developer+🚀;Tech+Innovator+💡;Blockchain+Enthusiast+₿;AI%2FML+Explorer+🤖;GenAI+Architect+🧠" alt="Typing Animation" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=FF6D91&center=true&vCenter=true&random=false&width=500&height=70&lines=Passionate+Developer+🚀;Tech+Innovator+💡;Blockchain+Enthusiast+₿;AI%2FML+Explorer+🤖;GenAI+Architect+🧠" alt="Typing Animation" />
 </div>
 
 <div align="center">
