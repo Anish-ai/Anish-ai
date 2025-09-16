@@ -1,8 +1,8 @@
 # <div align="center">🌟 Anish Kumar 🌟</div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=FF6D91&center=true&vCenter=true&random=false&width=500&height=70&lines=Passionate+Developer+🚀;Tech+Innovator+💡;Blockchain+Enthusiast+₿;AI%2FML+Explorer+🤖;GenAI+Architect+🧠" alt="Typing Animation" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=anish-ai&style=for-the-badge&color=F7B32D" alt="Profile Views" />
@@ -12,7 +12,7 @@
 <div align="center">
   <a href="https://linkedin.com/in/anish-kumar-71779326a"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&logoWidth=25" alt="LinkedIn" /></a>
   <a href="https://instagram.com/light.anish"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=25" alt="Instagram" /></a>
-  <a href="https://codeforces.com/profile/choco_bar"><img src="https://img.shields.io/badge/-CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&logoWidth=25" alt="CodeForces" /></a>
+  <a href="https://codeforces.com/profile/dairy_milk"><img src="https://img.shields.io/badge/-CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&logoWidth=25" alt="CodeForces" /></a>
   <a href="https://anish-kumar-iitp.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=25" alt="Portfolio" /></a>
   <a href="mailto:aniskum59431@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=25" alt="Email" /></a>
   <a href="https://anish-kumar-iitp.vercel.app/resume.pdf"><img src="https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&logoWidth=25" alt="Resume" /></a>
