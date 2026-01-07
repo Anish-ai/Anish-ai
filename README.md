@@ -12,7 +12,7 @@
 <div align="center">
   <a href="https://linkedin.com/in/anish-kumar-71779326a"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&logoWidth=25" alt="LinkedIn" /></a>
   <a href="https://instagram.com/light.anish"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=25" alt="Instagram" /></a>
-  <a href="https://codeforces.com/profile/dairy_milk"><img src="https://img.shields.io/badge/-CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&logoWidth=25" alt="CodeForces" /></a>
+  <a href="https://codeforces.com/profile/cheese_maggi"><img src="https://img.shields.io/badge/-CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&logoWidth=25" alt="CodeForces" /></a>
   <a href="https://anish-kumar-iitp.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=25" alt="Portfolio" /></a>
   <a href="mailto:aniskum59431@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=25" alt="Email" /></a>
   <a href="https://anish-kumar-iitp.vercel.app/resume.pdf"><img src="https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&logoWidth=25" alt="Resume" /></a>
